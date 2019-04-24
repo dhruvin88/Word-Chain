@@ -1,0 +1,35 @@
+Apple -> Key:
+            7 levels
+            2623 nodes visited
+            apple -> appl -> appt -> apt -> ait -> kit -> ket -> key 
+            
+Word -> Tree:
+            5 levels
+            3498 nodes visited
+            word -> wod -> rod -> red -> ree -> tree
+
+Tick -> Flea:
+            5 levels
+            2625 nodes visited
+            tick -> tic -> tec -> tea -> lea -> flea
+            
+Hello -> Bye:
+            5 levels
+            1029 nodes visited
+            hello -> hell -> bell -> bel -> bee -> bye
+
+True -> False:
+            5 levels
+            3756 nodes visited
+            true -> rue -> ruse -> fuse -> fause -> false
+
+Bird -> Sail:
+            4 levels
+            468 nodes visited
+            bird -> bid -> aid -> ail -> sail
+
+Vote -> Poll:
+            3 levels
+            682 nodes visited
+            vote -> vole -> pole -> poll
+    
